@@ -6,10 +6,12 @@ Youtap Indonesia Assessment
 3. Editor (Visual Studio Code)
 
 ## How to run this automation scenarios in local
-1. Clone this repo using this command: `git clone https://github.com/dendyyp/cucumber-automation-test.git`
+1. Clone this repo using this command:
+>$ git clone https://github.com/dendyyp/cucumber-automation-test.git
 2. Open this repo in your editor
 3. Open terminal in your editor
-4. To run scenario can using this command: `$cucumber`
+4. To run scenario can using this command:
+>$ cucumber
 
 ## Run in local results (terminal)
 <img width="934" alt="Screen Shot 2022-10-21 at 20 13 21" src="https://user-images.githubusercontent.com/45061250/197204184-4e424029-7d05-4676-bddc-ceb9ebf5e23f.png">
