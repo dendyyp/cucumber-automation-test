@@ -28,7 +28,6 @@
   end
 
   And('I click login button') do
-    expect(find(:xpath, "//*[@id='inputPassword']").set('Percobaan123#'))
     find("button[type='Submit']").click
   end
 
