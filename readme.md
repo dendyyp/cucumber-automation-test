@@ -20,7 +20,7 @@ Youtap Indonesia Assessment
 https://user-images.githubusercontent.com/45061250/197205219-5963e9c0-ad83-42c7-a947-e5416836b333.mov
 
 ## Test case
-You can see the test case on <b>login.feature</b> in support folder. There are 2 test cases that I've been created:
+You can see the test case on `login.feature` in support folder. There are 2 test cases that I've been created:
 1. Happy flow
    
    User login using valid credential and user redirect to Youtap dashboard
