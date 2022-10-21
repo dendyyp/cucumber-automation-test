@@ -1,5 +1,11 @@
 Youtap Indonesia Assessment
 
+# Test Analysis
+
+You can check the analysis that I did on Youtap Pos app in the `test_analysis.md` files
+
+# Automation Script
+
 ## Prerequisite
 1. Ruby (Make sure you already installed ruby. To check installed ruby you can using this command `$rvm list`)
 2. Cucumber (Make sure you already installed cucumber. To check you can using this command `$cucumber --version`)
