@@ -31,6 +31,7 @@ https://user-images.githubusercontent.com/45061250/197227021-8eae5b4d-d4a0-4404-
 
 After user add new product, user redirect to Daftar Produk page but there is no feature of adding products anymore in Daftar Produk. User should visit Edit Product on sidebar if want to add more product. I think it's kinda confusing for new users. My suggestion, nice to have if on Daftar Produk page there is a button to add a product, maybe can using logo like '+' so it will make user more easier to upload more product without visit edit product from hamburger bar.
 
+### Notes[^Notes]
 
 [^Notes]: I wrote the analysis and suggestion above due to the difficulty or confusion that I feel when using the Youtap Pos application
 
