@@ -2,7 +2,7 @@ Youtap Indonesia Assessment
 
 ## Prerequisite
 1. Ruby (Make sure you already installed ruby. To check installed ruby you can using this command `$rvm list`)
-2. Cucumber (Make sure you already installed cucumber. To check you can using this command `$cucumber --version`
+2. Cucumber (Make sure you already installed cucumber. To check you can using this command `$cucumber --version`)
 3. Editor (Visual Studio Code)
 
 ## How to run this automation scenarios in local
