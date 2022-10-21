@@ -44,7 +44,7 @@
     expect(page).to(have_content('Username atau Password tidak sesuai'), wait: 10, visible: true)
     sleep 5
     end
-    sleep 5   
+    sleep 10   
   end
 
   
